@@ -2,4 +2,4 @@
 
 ![feature-vizualization-2](viz.jpg)
 
-![loss-acc](image.jpg)
+![loss-acc](image.png)
